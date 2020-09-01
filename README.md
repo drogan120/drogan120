@@ -3,7 +3,7 @@
 <br>
 <p align = "inline">
   <img src = "https://github-readme-stats.vercel.app/api?username=drogan120&show_icons=true&theme=light" height="200" width="400">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=drogan120&layout=compact&&hide=css,java,html" height="200" width="400">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=drogan120&layout=compact" height="200" width="400">
 </p>
 
 <details>

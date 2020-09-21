@@ -7,5 +7,5 @@
 
 <details>
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=drogan120&theme=light&line_height=60">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=drogan120&langs_count=10&theme=light&line_height=60" width=300>
 </details>

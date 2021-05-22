@@ -2,7 +2,7 @@
 <br>
 <p align = "inline">
   <img src = "https://github-readme-stats.vercel.app/api?username=drogan120&show_icons=true&theme=light&count_private=true" height="250" width="350" >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=drogan120&layout=compact&hide=html%2Cscss%2Ccss%2Cpug%2Cblade%2Chandlebars%2Csmarty%2Cpython%2Cbash" height="250" width="290">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=drogan120&layout=compact&hide=html%2Cpug%2Cblade%2Chandlebars%2Csmarty%2Cbash" height="250" width="290">
 </p>
 
 <details>
